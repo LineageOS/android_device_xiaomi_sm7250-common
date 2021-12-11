@@ -16,6 +16,24 @@
       "message": "Xiaomi\u0027s 7250 devices don\u0027t support WiFi 6.",
       "revId": "7da99169b9be74c15538279447d74b1f4006a70e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "36038c3c_36d2e376",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30049
+      },
+      "writtenOn": "2021-12-11T11:59:22Z",
+      "side": 1,
+      "message": "This actually need to be tested, as I see on https://www.qualcomm.com/products/snapdragon-765g-5g-mobile-platform , there is Wi-Fi 6 ready + after decompiling WiFi resources from stock, there are some configs related to WiFi 6GHz\nI\u0027ll abandon this and when I\u0027ve somehow to test this, I\u0027ll re open it",
+      "parentUuid": "87c2b4b6_9d125639",
+      "revId": "7da99169b9be74c15538279447d74b1f4006a70e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
