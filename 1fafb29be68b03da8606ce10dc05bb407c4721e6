@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "21d58ca4_dd402cb8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25732
+      },
+      "writtenOn": "2022-05-23T20:22:19Z",
+      "side": 1,
+      "message": "On hardware/xiaomi 18.1 branch there\u0027s already a copy of this, the build will fail",
+      "revId": "1fafb29be68b03da8606ce10dc05bb407c4721e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
