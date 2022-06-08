@@ -16,6 +16,24 @@
       "message": "Also make sure to have an empty newline between subject and body of the commit message to avoid gerrit to showing this huge title.",
       "revId": "bf8a5a814fe7809a48bc6a698e4a42bdde1f6377",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a1ba9b77_f0480e42",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 30049
+      },
+      "writtenOn": "2022-06-08T13:27:39Z",
+      "side": 1,
+      "message": "Yes\nThank you for the tip ^^",
+      "parentUuid": "f8c1493a_856a974e",
+      "revId": "bf8a5a814fe7809a48bc6a698e4a42bdde1f6377",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
