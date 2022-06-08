@@ -34,6 +34,24 @@
       "parentUuid": "ff087fa6_da2a351b",
       "revId": "aaaf91f03166099a3184c63be08fb49709be5329",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e8eab66_cc41dbb8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2022-06-08T08:20:28Z",
+      "side": 1,
+      "message": "The reason for a change is supposed to be placed at the body of the commit message.\n\n\u003e sm7250-common: Drop AOSP\u0027s USB audio policy configuration\n\u003e\n\u003e We already have USB audio policy configs.",
+      "parentUuid": "894f1076_be0a441d",
+      "revId": "aaaf91f03166099a3184c63be08fb49709be5329",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
