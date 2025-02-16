@@ -55,9 +55,7 @@ genfscon sysfs /touchpanel                                                      
 genfscon sysfs /devices/platform/soc/1d84000.ufshc/clkgate_enable               u:object_r:vendor_sysfs_scsi_host:s0
 
 # Wakeup source stats
-genfscon sysfs /devices/platform/soc/88e0000.qcom,msm-eud/wakeup u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/soc:fingerprint_goodix/wakeup u:object_r:sysfs_wakeup:s0
-genfscon sysfs /devices/platform/soc/a600000.ssusb/wakeup u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/880000.i2c/i2c-0/0-0028/wakeup u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/894000.qcom,qup_uart/wakeup u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/98c000.i2c/i2c-3/3-0034/98c000.i2c:qcom,smb1396@34:qcom,div2_cp/wakeup u:object_r:sysfs_wakeup:s0
