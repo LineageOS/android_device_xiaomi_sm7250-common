@@ -150,6 +150,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libstdc++_vendor
 
+$(call soong_config_set,camera,override_format_from_reserved,true)
+
 # Camera Legacy HIDL deps
 PRODUCT_PACKAGES += \
     android.hidl.manager@1.0 \
