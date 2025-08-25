@@ -107,12 +107,6 @@
         <fqname>@1.1::IGoogleBattery/default</fqname>
     </hal>
     <hal format="hidl">
-        <name>vendor.lineage.livedisplay</name>
-        <transport>hwbinder</transport>
-        <fqname>@2.0::IPictureAdjustment/default</fqname>
-        <fqname>@2.0::IDisplayModes/default</fqname>
-    </hal>
-    <hal format="hidl">
         <name>vendor.nxp.nxpese</name>
         <transport>hwbinder</transport>
         <fqname>@1.0::INxpEse/default</fqname>
